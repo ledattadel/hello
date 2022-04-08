@@ -1,14 +1,14 @@
 
-<h1 align="center">Hi there, I'm <a href="https://github.com/tuanhtran1" target="_blank">TuAnhTran</a> <img
+<h1 align="center">Hi there, I'm <a href="https://github.com/ledattadel" target="_blank">Le Trong Dat</a> <img
 src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="32" /></h1>
 
 ### 📬 Find me at
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/tuanhtran1/) 
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/ledattadel/)](https://github.com/ledattadel/) 
 [![GitHub followers](https://img.shields.io/github/followers/tuanhtran1?label=Follow&style=social)](https://github.com/tuanhtran1/?tab=follow) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tuanhtran1/)](https://www.linkedin.com/in/tuuanhtran1)
-[![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/11534375/hemanth-kollipara)](https://stackoverflow.com/users/17171888/tu-anhtran)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.bingbang004@gmail.com)](mailto:bingbang004@gmail.com)
-[![GeeksforGeeks Badge](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/tuanhtran1/articles)](https://auth.geeksforgeeks.org/user/tuanhtran1/articles)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ledattadel/)](https://www.linkedin.com/in/l%C3%AA-tr%E1%BB%8Dng-%C4%91%E1%BA%A1t-7720a1174/)
+[![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/11534375/hemanth-kollipara)](https://stackoverflow.com/users/15127764/dat-le)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:datletrong215@gmail.com)](mailto:datletrong215@gmail.com)
+
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 
 
@@ -18,12 +18,11 @@ src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="32" /><
 
 - 🏦 I am a final year student majoring in Software Technology at the Institute of Post and Telecommunications Technology
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 👀 I’m interested in Spring MVC, Spring Boot, Socket/Client, Webservice,...
+- 👀 I’m interested in Spring MVC, Spring Boot, Webservice,...
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Java,...
-- 💻 I use daily **.js**, **.java**, **.sql**
-- 📖 I love physics especially about the field of astronomy.
-- 💬 Talk to me about spring boot, java (both of these are not any kind of insect or animals), silicon valley & startups
-- ⚡ Fun fact: Je connais un peu le français
+- 💻 I use daily **.js**, **.java**, **.sql**.
+- 💬 Talk to me about spring boot, java (both of these are not any kind of insect or animals), javascript
+- ⚡ Fun fact "By failing to prepare, you are preparing to fail"
 <br>
 
 ## :rocket: Technologies I Love
@@ -32,9 +31,8 @@ src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="32" /><
 
 * Spring Framework ( Spring Data JPA, Spring Security,...)
 * Java ee, j2ee, jarkartar ee
-* Machine Learning
-* Data Science
 * Backend Web Development
+* Javascript
 
 <br>
 
@@ -42,12 +40,10 @@ src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="32" /><
 <p>
  <div>
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40"/> 
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40"/>
       <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="Cpp" width="40"/>
 </div>
        <div>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="40" /> 
-      <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="eastic" width="40" />
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" />
       <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40"/>
       <img src="https://camo.githubusercontent.com/8de346520f7417f6602ca239b7d91232b4e99f8d4aa4e53dcd3896e7b8416c4d/68747470733a2f2f7974332e67677068742e636f6d2f5f713532693862554145766362374a5234652d654e547632337932415f77673573437a304e43304772477463773143524d574a534f5056485544685f626e6744307134674d7656656f413d733930302d632d6b2d63307830306666666666662d6e6f2d726a" alt="Vscode" width="40"/>
@@ -56,45 +52,24 @@ src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="32" /><
 </p>
 <br>
 
-<!---
-tuanhtran1/tuanhtran1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
-## 📊 Weekly development breakdown
-
-
-```text
-Java           5 hrs 49 mins       ████████░░     85.84%
-C++            2 hrs 41 mins       ████░░░░░░     40.59%
-Text           6 mins              ░░░░░░░░░░     1.57%
-```
 
 <p align="right">Thank you for visiting</p>
-<a href="www.linkedin.com/in/tuuanhtran1">
-  <img align="right" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/ledattadel/">
+  <img align="right" alt="Datle's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/tu.anhtran/">
-  <img align="right" alt="Tuanhtran's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="">
-  <img align="right" alt="Tuanhtran's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+<a href="https://www.instagram.com/hoalacmanthien/">
+  <img align="right" alt="Datle's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="">
-  <img align="right" alt="Tuanhtran | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="right" alt="Datle's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="">
+  <img align="right" alt="Datle | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
 
 
 
 
-
-
-- 🌱 I’m currently learning **JAVA**
-
-- 💬 Ask me about **JAVA**
-
-- 📫 How to reach me **datletrong215@gmail.com**
-
-- ⚡ Fun fact **"By failing to prepare, you are preparing to fail"**
 
