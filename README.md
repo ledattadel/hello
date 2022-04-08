@@ -4,7 +4,7 @@ src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="32" /><
 
 ### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/ledattadel/)](https://github.com/ledattadel/) 
-[![GitHub followers](https://img.shields.io/github/followers/tuanhtran1?label=Follow&style=social)](https://github.com/tuanhtran1/?tab=follow) 
+[![GitHub followers](https://img.shields.io/github/followers/ledattadel?label=Follow&style=social)](https://github.com/ledattadel/?tab=follow) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ledattadel/)](https://www.linkedin.com/in/l%C3%AA-tr%E1%BB%8Dng-%C4%91%E1%BA%A1t-7720a1174/)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/11534375/hemanth-kollipara)](https://stackoverflow.com/users/15127764/dat-le)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:datletrong215@gmail.com)](mailto:datletrong215@gmail.com)
